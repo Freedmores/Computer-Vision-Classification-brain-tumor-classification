@@ -24,7 +24,7 @@ This repository contains a deep learning project for the classification of brain
 ## 📁 Dataset Structure
 
 The dataset used is structured into `Training` and `Testing` folders with subdirectories for each class: <br>
-<img src="data_folder_structure.jpg" width="400px">
+<img src="data_folder_structure.png" width="400px">
 
 
 ## 📊 Results
